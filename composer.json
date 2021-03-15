@@ -1,0 +1,12 @@
+{
+    "name": "bones/lab2",
+    "authors": [
+        {
+            "name": "Michael London",
+            "email": "000361992@mohawkcollege.ca"
+        }
+    ],
+    "require": {
+        "respect/validation": "^2.2"
+    }
+}
